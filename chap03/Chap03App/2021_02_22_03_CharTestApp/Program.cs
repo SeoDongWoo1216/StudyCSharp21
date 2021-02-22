@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2021_02_22_CharTestApp
+namespace _2021_02_22_03_CharTestApp
 {
     class Program
     {
@@ -13,7 +13,7 @@ namespace _2021_02_22_CharTestApp
             // 문자
             Console.WriteLine("-----------------------------문자------------------------------");
             // char ch9 = 'test' 은 오류인데, ''는 문자 1개만 저장할 수 있기때문. (글자를 여러개쓰면 '문자열'(string)이 된다.)
-            char ch1 = 't' ,   // 일반적인 글자
+            char ch1 = 't',   // 일반적인 글자
                  ch2 = '\t',   // Tab 효과
                  ch3 = '\n',   // 엔터효과
                  ch4 = '0';    // 숫자 0 저장

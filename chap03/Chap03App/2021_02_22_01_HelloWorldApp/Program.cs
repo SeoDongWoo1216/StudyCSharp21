@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloWorldApp
+namespace _2021_02_22_01_HelloWorldApp
 {
     class Program
     {
