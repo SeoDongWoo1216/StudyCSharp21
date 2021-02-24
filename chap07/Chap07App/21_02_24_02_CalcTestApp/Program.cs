@@ -46,7 +46,7 @@ namespace _21_02_24_02_CalcTestApp
             
             x = 5;
             //mathz.PrintEven(x);  // 짝수를 골라내는 행위들을  '클래스.메서드'  선언 한줄로 간략화해줄 수 있다.
-            Mathz.PrintEven(x);   // 정적필드(static)를 선언했기때문에 바로 호출할 수 있따.
+            Mathz.PrintEven(x);   // 정적필드(static)를 선언했기때문에 바로 호출할 수 있다.
             //if(x % 2 == 0)
             //{
             //    Console.WriteLine($"x의 값 : {x}");
