@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_02_23_03_SortingTestApp"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_02_23_04_RefOutTestApp", "21_02_23_04_RefOutTestApp\21_02_23_04_RefOutTestApp.csproj", "{F425158C-6921-448B-9664-35C5A1081EAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_02_24_01_OverloadTestApp", "21_02_24_01_OverloadTestApp\21_02_24_01_OverloadTestApp.csproj", "{65C5A7EA-A52B-4B45-9105-709FBA43F85B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_02_24_02_OverloadTestApp2", "21_02_24_02_OverloadTestApp2\21_02_24_02_OverloadTestApp2.csproj", "{FC9B1D2E-B6FA-43EB-92DA-F353F852344D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{F425158C-6921-448B-9664-35C5A1081EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F425158C-6921-448B-9664-35C5A1081EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F425158C-6921-448B-9664-35C5A1081EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C5A7EA-A52B-4B45-9105-709FBA43F85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C5A7EA-A52B-4B45-9105-709FBA43F85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C5A7EA-A52B-4B45-9105-709FBA43F85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C5A7EA-A52B-4B45-9105-709FBA43F85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9B1D2E-B6FA-43EB-92DA-F353F852344D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9B1D2E-B6FA-43EB-92DA-F353F852344D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9B1D2E-B6FA-43EB-92DA-F353F852344D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9B1D2E-B6FA-43EB-92DA-F353F852344D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
