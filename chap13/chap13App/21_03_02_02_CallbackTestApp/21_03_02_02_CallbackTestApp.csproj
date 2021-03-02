@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{300B0AAE-30A4-4157-A354-FFFD9A2A6206}</ProjectGuid>
+    <ProjectGuid>{6BF747C7-9F32-4AD7-904F-22037512B3AD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_21_03_02_04_TryCatchFinallyApp</RootNamespace>
-    <AssemblyName>21_03_02_04_TryCatchFinallyApp</AssemblyName>
+    <RootNamespace>_21_03_02_02_CallbackTestApp</RootNamespace>
+    <AssemblyName>21_03_02_02_CallbackTestApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2EB8DA43-B1E4-4E9C-B2EC-B9FBC7FF8F89}</ProjectGuid>
+    <ProjectGuid>{76203D82-B4D6-4F27-84A8-38D66311B6A7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_21_03_02_03_ExceptionThrowApp</RootNamespace>
-    <AssemblyName>21_03_02_03_ExceptionThrowApp</AssemblyName>
+    <RootNamespace>_21_03_02_03_DelegateChainApp</RootNamespace>
+    <AssemblyName>21_03_02_03_DelegateChainApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
