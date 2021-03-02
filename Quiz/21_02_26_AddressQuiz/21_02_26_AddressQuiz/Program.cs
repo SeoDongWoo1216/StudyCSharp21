@@ -97,19 +97,34 @@ namespace _21_02_26_AddressQuiz
         private static void inputData()              // 0. 데이터 입력
         {
             ScreenClear();
-            Console.Write("이름 입력: ");
-            string name = Console.ReadLine();
-            Console.Write("전화 입력: ");
-            string phone = Console.ReadLine();
-            Console.Write("주소 입력: ");
-            string address = Console.ReadLine();
+            do
+            {
+                Console.Write("이름 입력(엔터시 종료): ");
+                string name = Console.ReadLine();
+                if (string.IsNullOrEmpty(name))   // 만약 이름입력안하고 비운상태에서 엔터칠경우 해당 반복문 종료
+                    break;
 
-            AddressVariable addr = new AddressVariable();  // 입력받은 데이터를 AddressVariable의 데이터로 추가
-            addr.name = name;
-            addr.phone = phone;
-            addr.address = address;
+                Console.Write("전화 입력: ");
+                string phone = Console.ReadLine();
+                if (string.IsNullOrEmpty(phone))
+                    break;
 
-            ArrayAddress.Add(addr);
+                Console.Write("주소 입력: ");
+                string address = Console.ReadLine();
+                Console.WriteLine();
+                if (string.IsNullOrEmpty(address))
+                    break;
+
+
+                AddressVariable addr = new AddressVariable();  // 입력받은 데이터를 AddressVariable의 데이터로 추가
+                addr.name = name;
+                addr.phone = phone;
+                addr.address = address;
+
+                ArrayAddress.Add(addr);
+
+            } while (true);
+          
         }
 
         private static void SerachData()             // 1. 데이터 검색
