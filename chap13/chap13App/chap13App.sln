@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_03_02_02_CallbackTestApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_03_02_03_DelegateChainApp", "21_03_02_03_DelegateChainApp\21_03_02_03_DelegateChainApp.csproj", "{76203D82-B4D6-4F27-84A8-38D66311B6A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_03_03_01_DelegateChain2App(Fire)", "21_03_03_01_DelegateChain2App(Fire)\21_03_03_01_DelegateChain2App(Fire).csproj", "{3147AF4C-61DF-4640-9E58-A2B32024EEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_03_03_02_UsingEventApp", "21_03_03_02_UsingEventApp\21_03_03_02_UsingEventApp.csproj", "{745BF99C-B595-47F3-B9F2-74E97A598475}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{76203D82-B4D6-4F27-84A8-38D66311B6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76203D82-B4D6-4F27-84A8-38D66311B6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76203D82-B4D6-4F27-84A8-38D66311B6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3147AF4C-61DF-4640-9E58-A2B32024EEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3147AF4C-61DF-4640-9E58-A2B32024EEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3147AF4C-61DF-4640-9E58-A2B32024EEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3147AF4C-61DF-4640-9E58-A2B32024EEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745BF99C-B595-47F3-B9F2-74E97A598475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745BF99C-B595-47F3-B9F2-74E97A598475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745BF99C-B595-47F3-B9F2-74E97A598475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745BF99C-B595-47F3-B9F2-74E97A598475}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
