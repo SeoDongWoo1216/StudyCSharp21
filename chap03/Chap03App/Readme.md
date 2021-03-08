@@ -1,4 +1,4 @@
-<h1>데이터 보관하기<h1>
+<h1>데이터 보관하기
 첫 HelloWorld 출력<br>
 기본 자료형<br>
 문자형식 char, 문자열 string, 불린형 bool<br>
