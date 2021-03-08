@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace _21_02_25_03_OverrideTestApp
 {
-    // 오버라이딩 : 
 
     class ArmorSuite
     {
