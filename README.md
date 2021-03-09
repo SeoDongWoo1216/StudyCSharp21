@@ -30,5 +30,7 @@ PKNU C# 학습 리포지토리입니다 <br><br>
 - [소스보기](https://github.com/SeoDongWoo1216/StudyCSharp21/tree/main/chap99/chap99App/21_03_04_AddressBookApp)
 
 ![첫화면](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/0_%EC%B2%AB%ED%99%94%EB%A9%B4.png "첫 화면")
-![입력](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/1_%EC%9E%85%EB%A0%A5_01.png "입력")
+
+![입력](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/1_%EC%9E%85%EB%A0%A5_01.png "입력1")
+![입력2](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/1_%EC%9E%85%EB%A0%A5_02.png "입력2")
 
