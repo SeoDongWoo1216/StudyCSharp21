@@ -30,8 +30,8 @@ PKNU C# 학습 리포지토리입니다 <br><br>
 - [소스보기](https://github.com/SeoDongWoo1216/StudyCSharp21/tree/main/chap99/chap99App/21_03_04_AddressBookApp) <br>
 > 콘솔창에서 데이터를 저장, 검색, 수정, 삭제를 통해 전화번호부를 관리하는 프로그램입니다. <br>
 
-- MainApp : 메인 메서드에서 키보드로 숫자를 입력받았을때 case문으로 각각 나뉘어서 AddressManager로 넘겨주니다.
-- AddressInfo : 클래스 변수를 통해 타입을 정의하고, List를 통해 이를 활용하여 데이터를 가공할 수 있도록 세팅했습니다.
+- MainApp : 메인 메서드에서 키보드로 숫자를 입력받았을때 case문으로 각각 나뉘어서 AddressManager로 넘겨줍니다.
+- AddressInfo : 클래스 변수를 통해 타입을 정의하고, AddressManager에서 List를 통해 이를 활용하여 데이터를 가공할 수 있도록 세팅했습니다.
 - AddressManager : 입력받은 case문 기능들을 구현했습니다.
 - DataFileManager : .dat 파일을 통해 유사 데이터베이스처럼 데이터를 가공할 수 있게하여 콘솔 프로그램이 종료되면 모든 데이터가 소실되는 단점을 보완하였습니다. 
 
