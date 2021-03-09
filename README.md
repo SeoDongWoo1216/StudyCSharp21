@@ -29,25 +29,25 @@ PKNU C# 학습 리포지토리입니다 <br><br>
 ## Project 실습 : 콘솔 전화번호부 프로그램
 - [소스보기](https://github.com/SeoDongWoo1216/StudyCSharp21/tree/main/chap99/chap99App/21_03_04_AddressBookApp)
 
-첫 화면<br>
+#### 첫 화면
 ![첫화면](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/0_%EC%B2%AB%ED%99%94%EB%A9%B4.png "첫 화면")
 
-데이터 입력<br>
+#### 데이터 입력
 ![입력1](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/1_%EC%9E%85%EB%A0%A5_02.png "입력1")
 ![입력2](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/1_%EC%9E%85%EB%A0%A5_03.png "입력2")
 ![입력3](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/1_%EC%9E%85%EB%A0%A5_04(%EC%B6%9C%EB%A0%A5).png "입력된거확인(출력)")
 
 
-<br>데이터 검색<br>
+#### 데이터 검색
 ![검색1](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/2_%EA%B2%80%EC%83%89_01.png "데이터 검색")
 
-<br>데이터 수정<br>
+#### 데이터 수정
 ![수정1](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/3_%EC%88%98%EC%A0%95_01.png "수정")
 ![수정2](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/3_%EC%88%98%EC%A0%95_02(%EC%B6%9C%EB%A0%A5).png "데이터 수정 확인(출력)")
 
-<br>데이터 삭제<br>
+#### 데이터 삭제
 ![삭제1](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/4_%EC%82%AD%EC%A0%9C_01.png "삭제")
 ![삭제2](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/4_%EC%82%AD%EC%A0%9C_02(%EC%B6%9C%EB%A0%A5).png "데이터 삭제 확인(출력)")
 
-<br>프로그램 종료<br>
+#### 프로그램 종료
 ![종료](https://github.com/SeoDongWoo1216/StudyCSharp21/blob/main/chap99/chap99App/21_03_04_AddressBookApp/ResultImage/6_%EC%A2%85%EB%A3%8C.png "프로그램 종료")
